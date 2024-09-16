@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admixer.TestTask.CSharp", "Admixer.TestTask.CSharp\Admixer.TestTask.CSharp.csproj", "{9078335F-EC9A-4B04-96BD-6B8BFD009BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admixer.TestTask.Application", "Admixer.TestTask.Application\Admixer.TestTask.Application.csproj", "{865850CC-4161-4612-B1B3-7CD02C178618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admixer.TestTask.Tests", "Admixer.TestTask.Tests\Admixer.TestTask.Tests.csproj", "{6E75B4F8-F668-4AE7-8429-6D4C6DE01391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9078335F-EC9A-4B04-96BD-6B8BFD009BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9078335F-EC9A-4B04-96BD-6B8BFD009BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9078335F-EC9A-4B04-96BD-6B8BFD009BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9078335F-EC9A-4B04-96BD-6B8BFD009BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{865850CC-4161-4612-B1B3-7CD02C178618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865850CC-4161-4612-B1B3-7CD02C178618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865850CC-4161-4612-B1B3-7CD02C178618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865850CC-4161-4612-B1B3-7CD02C178618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E75B4F8-F668-4AE7-8429-6D4C6DE01391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E75B4F8-F668-4AE7-8429-6D4C6DE01391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E75B4F8-F668-4AE7-8429-6D4C6DE01391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E75B4F8-F668-4AE7-8429-6D4C6DE01391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
