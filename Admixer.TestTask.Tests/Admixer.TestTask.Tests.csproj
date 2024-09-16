@@ -17,10 +17,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Clients\CSharp\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <ProjectReference Include="..\Admixer.TestTask.Application\Admixer.TestTask.Application.csproj" />
       <ProjectReference Include="..\Admixer.TestTask.CSharp\Admixer.TestTask.CSharp.csproj" />
     </ItemGroup>
